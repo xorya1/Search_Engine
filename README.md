@@ -1,10 +1,10 @@
 # Search_Engine
 
-In this project, we refer to a library as any database containing a sufficiently large number of text documents. One such example is The Gutenberg Project, where documents are stored in various formats, including ASCII text format. Much like The Gutenberg Project’s database, a library can store tens of thousands of text documents.
+In this project, I refer to a library as any database containing a sufficiently large number of text documents. One such example is The Gutenberg Project, where documents are stored in various formats, including ASCII text format. Much like The Gutenberg Project’s database, a library can store tens of thousands of text documents.
 
 A search engine in such a library is a web/mobile application whose primary feature is to point its users to the right document according to a keyword search. Another feature could be to recommend documents based on the user's search history.
 
-We use **Spring Boot** to create the back end and **Next.js** to create the front end for this web app.
+I use **Spring Boot** to create the back end and **Next.js** to create the front end for this web app.
 
 ![Search Engine Screenshot](https://github.com/user-attachments/assets/c77067e2-166b-4a1c-bfbf-bdd03e4045b0)
 
