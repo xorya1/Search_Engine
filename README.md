@@ -16,8 +16,6 @@ For building and running the application, you need:
 - **Node.js version 10.13 or later**
 - **1.5GB of free disk space** for downloading 1680 books
 
-## Demo
-
 ## Running the Application Locally
 
 ### Starting the Back End
